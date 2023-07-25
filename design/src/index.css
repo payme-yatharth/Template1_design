@@ -147,7 +147,54 @@ left: 587px;
 width: 213px;
 height: 0px;
 /* UI Properties */
-background: transparent url('img/Line 17.png') 0% 0% no-repeat padding-box;
+background: 0% 0% no-repeat padding-box;
 border: 3px solid #FC6603;
 opacity: 1;
+}
+
+.orange-rectangle{
+  position:absolute;
+  top: 1193px;
+  left: 0px;
+  width: 1440px;
+  height: 365px;
+  background: transparent url('img/Rectangle 30.png') 0% 0% no-repeat padding-box;
+  opacity: 1;
+}
+
+.why-chooose-box{
+  position: absolute;
+  top: 1227px;
+  left: 544px;
+  width: 353px;
+  height: 37px;
+  /* UI Properties */
+  text-align: center;
+  font: normal normal bold 28px/18px Roboto;
+  letter-spacing: 0px;
+  opacity: 1;
+}
+
+.why-text{
+top: 0px;
+left: 3px;
+width: 205px;
+height: 37px;
+/* UI Properties */
+text-align: center;
+font: normal normal bold 28px/18px Roboto;
+letter-spacing: 0px;
+color: #152745;
+}
+
+.choose-text{
+top: 0px;
+left: 208px;
+width: 142px;
+height: 37px;
+/* UI Properties */
+text-align: center;
+font: normal normal bold 28px/18px Roboto;
+letter-spacing: 0px;
+color: #FFFFFF;
 }
