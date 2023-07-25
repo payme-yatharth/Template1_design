@@ -804,7 +804,7 @@ opacity: 1;
 }
 
 .document-text1{
-  position: absolute;;
+  position: absolute;
   top: 3123px;
 left: 177px;
 width: 163px;
@@ -887,5 +887,42 @@ text-align: center;
 font: normal normal medium 24px/30px Roboto;
 letter-spacing: 0px;
 color: #152745;
+opacity: 1;
+}
+
+.question-mark{
+  position: absolute;
+  top: 3576px;
+left: 67px;
+width: 340px;
+height: 551px;
+/* UI Properties */
+background: transparent url('img/Group 5488.png') 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+
+.faq-text{
+  position: absolute;
+  top: 3443px;
+left: 595px;
+width: 199px;
+height: 59px;
+/* UI Properties */
+text-align: center;
+font: normal normal bold 28px/18px Roboto;
+letter-spacing: 0px;
+color: #152745;
+}
+
+.line-22-css
+{
+  position: absolute;
+  top: 3509px;
+left: 649px;
+width: 80px;
+height: 0px;
+/* UI Properties */
+background: transparent url('img/Line 22.png') 0% 0% no-repeat padding-box;
+border: 3px solid #FC6603;
 opacity: 1;
 }
