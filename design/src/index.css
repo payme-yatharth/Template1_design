@@ -320,3 +320,175 @@ opacity: 1;
   color: #152745;
   opacity: 1;
 }
+
+.eligibility_text{
+position: absolute;
+top: 1654px;
+left: 500px;
+width: 388px;
+height: 67px;
+/* UI Properties */
+text-align: center;
+font: normal normal bold 28px/18px Roboto;
+letter-spacing: 0px;
+color: #152745;
+}
+
+.subtract-css{
+position:absolute;
+top: 1654px;
+left: -0.000030517578125px;
+width: 547px;
+height: 662px;
+/* UI Properties */
+background: 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+
+.eligibility-white-box1{
+  position: absolute;
+  top: 1799px;
+left: 108px;
+width: 336px;
+height: 225px;
+/* UI Properties */
+background: #FFFFFF 0% 0% no-repeat padding-box;
+font: normal normal bold 28px/18px Roboto;
+letter-spacing: 0px;
+color: #152745;
+}
+
+.eligibility-white-box2{
+  position: absolute;
+  top: 1799px;
+left: 554px;
+width: 336px;
+height: 225px;
+/* UI Properties */
+background: #FFFFFF 0% 0% no-repeat padding-box;
+box-shadow: 0px 3px 6px #00000029;
+border-radius: 10px;
+opacity: 1;
+}
+
+.eligibility-white-box3{
+  position: absolute;
+  top: 1799px;
+left: 1000px;
+width: 333px;
+height: 222px;
+/* UI Properties */
+background: #FFFFFF 0% 0% no-repeat padding-box;
+box-shadow: 0px 3px 6px #00000029;
+border-radius: 10px;
+opacity: 1;
+}
+
+.eligibility-white-box4{
+  position: absolute;
+  top: 2091px;
+left: 332px;
+width: 336px;
+height: 225px;
+/* UI Properties */
+background: #FFFFFF 0% 0% no-repeat padding-box;
+box-shadow: 0px 3px 6px #00000029;
+border-radius: 10px;
+opacity: 1;
+}
+
+.eligibility-white-box5{
+  position: absolute;
+  top: 2091px;
+left: 768px;
+width: 336px;
+height: 225px;
+/* UI Properties */
+background: #FFFFFF 0% 0% no-repeat padding-box;
+box-shadow: 0px 3px 6px #00000029;
+border-radius: 10px;
+opacity: 1;
+}
+
+
+.line-19-css{
+  position: absolute;
+  top: 1728px;
+left: 587px;
+width: 213px;
+height: 0px;
+/* UI Properties */
+background: transparent url('img/Line 19.png') 0% 0% no-repeat padding-box;
+border: 3px solid #FC6603;
+opacity: 1;
+}
+
+.elegibilty-span1{
+  position: absolute;
+  top: 1863px;
+left: 155px;
+width: 242px;
+height: 97px;
+/* UI Properties */
+text-align: left;
+font: normal normal normal 20px/34px Roboto;
+letter-spacing: 0px;
+color: #152745;
+opacity: 1;
+}
+
+.elegibilty-span2{
+  position: absolute;
+  top: 1828px;
+left: 578px;
+width: 289px;
+height: 167px;
+/* UI Properties */
+text-align: left;
+font: normal normal normal 20px/34px Roboto;
+letter-spacing: 0px;
+color: #152745;
+opacity: 1;
+}
+
+.elegibilty-span3{
+  position: absolute;
+  top: 1846px;
+left: 1032px;
+width: 270px;
+height: 95px;
+/* UI Properties */
+text-align: left;
+font: normal normal normal 20px/34px Roboto;
+letter-spacing: 0px;
+color: #152745;
+opacity: 1;
+}
+
+.elegibilty-span4{
+  position: absolute;
+  top: 2155px;
+left: 379px;
+width: 242px;
+height: 97px;
+/* UI Properties */
+text-align: left;
+font: normal normal normal 20px/34px Roboto;
+letter-spacing: 0px;
+color: #152745;
+opacity: 1;
+}
+
+.elegibilty-span5{
+  position: absolute;
+  top: 2136px;
+left: 792px;
+width: 289px;
+height: 135px;
+/* UI Properties */
+text-align: left;
+font: normal normal normal 20px/34px Roboto;
+letter-spacing: 0px;
+color: #152745;
+opacity: 1;
+}
