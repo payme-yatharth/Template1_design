@@ -188,7 +188,7 @@ color: #152745;
 }
 
 .choose-text{
-top: 0px;
+top: 1193px;
 left: 208px;
 width: 142px;
 height: 37px;
@@ -197,4 +197,126 @@ text-align: center;
 font: normal normal bold 28px/18px Roboto;
 letter-spacing: 0px;
 color: #FFFFFF;
+}
+
+.orange-robot{
+  /* Layout Properties */
+position: absolute;
+top: 1193px;
+left: 935px;
+width: 505px;
+height: 365px;
+/* UI Properties */
+background: transparent url('img/Group 5489.png') 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+
+.white-box1{
+  position: absolute;
+  top: 1317px;
+left: 91px;
+width: 235px;
+height: 67px;
+/* UI Properties */
+background: #FFFFFF 0% 0% no-repeat padding-box;
+box-shadow: 0px 4px 8px #00000030;
+border-radius: 10px;
+opacity: 1;
+}
+
+.white-box2{
+  /* Layout Properties */
+position: absolute;
+top: 1422px;
+left: 91px;
+width: 235px;
+height: 67px;
+/* UI Properties */
+background: #FFFFFF 0% 0% no-repeat padding-box;
+box-shadow: 0px 4px 8px #00000030;
+border-radius: 10px;
+opacity: 1;
+}
+
+.white-box3{
+position: absolute;
+top: 1317px;
+left: 534px;
+width: 235px;
+height: 67px;
+/* UI Properties */
+background: #FFFFFF 0% 0% no-repeat padding-box;
+box-shadow: 0px 4px 8px #00000030;
+border-radius: 10px;
+opacity: 1;
+}
+
+.white-box4{
+position: absolute;
+/* Layout Properties */
+top: 1422px;
+left: 534px;
+width: 235px;
+height: 67px;
+/* UI Properties */
+background: #FFFFFF 0% 0% no-repeat padding-box;
+box-shadow: 0px 4px 8px #00000030;
+border-radius: 10px;
+opacity: 1;
+}
+
+.span1{
+  position: absolute;
+  top: 1336px;
+left: 106px;
+width: 205px;
+height: 29px;
+/* UI Properties */
+text-align: left;
+font: normal normal bold 20px/26px Roboto;
+letter-spacing: 0px;
+color: #152745;
+opacity: 1;
+}
+
+.span2{
+  position: absolute;
+  top: 1429px;
+left: 138px;
+width: 141px;
+height: 53px;
+/* UI Properties */
+text-align: center;
+font: normal normal bold 20px/26px Roboto;
+letter-spacing: 0px;
+color: #152745;
+opacity: 1;
+}
+
+.span3{
+  position: absolute;
+  top: 1324px;
+left: 549px;
+width: 205px;
+height: 53px;
+/* UI Properties */
+text-align: center;
+font: normal normal bold 20px/26px Roboto;
+letter-spacing: 0px;
+color: #152745;
+opacity: 1;
+}
+
+.span4{
+  position: absolute;
+  top: 1442px;
+  left: 581px;
+  width: 141px;
+  height: 27px;
+  /* UI Properties */
+  text-align: center;
+  font: normal normal bold 20px/26px Roboto;
+  letter-spacing: 0px;
+  color: #152745;
+  opacity: 1;
 }
