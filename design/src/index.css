@@ -11,3 +11,39 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.robot-img{
+  position: absolute;
+  /* Layout Properties */
+padding-top: 121px;
+padding-left: 61px;
+padding-right: 880px;
+width: 499px;
+height: 445px;
+/* UI Properties */
+background: 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+
+.logo-img{
+  position: absolute;
+  padding-top: 39px;
+  padding-left: 49px;
+  width: 145px;
+  height: 46px;
+
+  opacity: 1;
+
+}
+
+.intersection-layout{
+  position: absolute;
+  padding-top: 0px;
+  padding-left: 700px;
+  padding-right: 0%;
+  width: 668px;
+  height: 800px;
+
+  background: transparent url('img/.intersection-layout') 0% 0% no-repeat padding-box;
+  opacity: 1;
+}
